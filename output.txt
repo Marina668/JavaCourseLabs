@@ -1,0 +1,32 @@
+
+max for histogram =  10.0
+
+min for histogram =  1.0
+
+number of elements for histogram =  91
+
+mean for histogram =  3.3835164835164835
+
+median for histogram =  1.9
+
+moda for histogram =  1.9
+
+range for histogram =  9.0
+
+varince for histogram =  90.19305494505495
+
+standart deviation for histogram =  9.49700241892435
+
+asymmetry for histogram =  0.01600483913899685
+
+excess_kurtosis for histogram =  0.00956554700376684
+
+median absolute deviation for histogram =  0.19780219780219782
+
+raw moment for histogram =  0.30219780219780223
+
+central moment for histogram =  0.11629030310348991
+
+standard deviation for histogram =  1.4206096818380016
+
+measure of the asymmetry for histogram =  0.9702224823762234
